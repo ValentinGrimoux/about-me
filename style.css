@@ -1,0 +1,52 @@
+body{
+    margin: 0px;
+    font-family: 'Press Start 2P', cursive;
+    background-color: rgb(32, 30, 34);
+    color: white;
+}
+
+section{
+    margin: 20px;
+    padding: 40px;
+    border-style: groove;
+    background-color: rgb(49, 46, 53);
+    border-color: hotpink;
+}
+
+img{
+    width: 100%;
+    height: 200px;
+}
+
+/* Titre H */
+
+h1{
+    text-transform: uppercase;
+    color: rgb(201, 38, 32);
+}
+
+/*  */
+
+.soustitre{
+    color: rgb(255, 102, 0);
+}
+
+strong{
+    color: orange;
+}
+
+footer{
+    text-align: center;
+    padding: 60px;
+    background-color:rgb(49, 46, 53);
+}
+
+a{
+    color: hotpink;
+}
+
+a:hover{
+    color: rgb(250, 133, 191);
+    font-weight: bold;
+    font-size: 20px;
+}
